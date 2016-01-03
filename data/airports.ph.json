@@ -1,0 +1,297 @@
+[
+    {
+        "name": "Ninoy Aquino International Airport",
+        "iata": "MNL",
+        "iso": "PH"
+    },
+    {
+        "name": "Mactan Cebu International Airport",
+        "iata": "CEB",
+        "iso": "PH"
+    },
+    {
+        "name": "Francisco Bangoy International Airport",
+        "iata": "DVO",
+        "iso": "PH"
+    },
+    {
+        "name": "Iloilo International Airport",
+        "iata": "ILO",
+        "iso": "PH"
+    },
+    {
+        "name": "Kalibo International Airport",
+        "iata": "KLO",
+        "iso": "PH"
+    },
+    {
+        "name": "El Nido Airport",
+        "iata": "ENI",
+        "iso": "PH"
+    },
+    {
+        "name": "Subic Bay International Airport",
+        "iata": "SFS",
+        "iso": "PH"
+    },
+    {
+        "name": "Diosdado Macapagal International Airport",
+        "iata": "CRK",
+        "iso": "PH"
+    },
+    {
+        "name": "Laoag International Airport",
+        "iata": "LAO",
+        "iso": "PH"
+    },
+    {
+        "name": "Legazpi City Airport",
+        "iata": "LGP",
+        "iso": "PH"
+    },
+    {
+        "name": "Lubang Airport",
+        "iata": "LBX",
+        "iso": "PH"
+    },
+    {
+        "name": "Allah Valley Airport",
+        "iata": "AAV",
+        "iso": "PH"
+    },
+    {
+        "name": "General Santos International Airport",
+        "iata": "GES",
+        "iso": "PH"
+    },
+    {
+        "name": "Awang Airport",
+        "iata": "CBO",
+        "iso": "PH"
+    },
+    {
+        "name": "Butuan Airport",
+        "iata": "BXU",
+        "iso": "PH"
+    },
+    {
+        "name": "Bislig Airport",
+        "iata": "BPH",
+        "iso": "PH"
+    },
+    {
+        "name": "Dipolog Airport",
+        "iata": "DPL",
+        "iso": "PH"
+    },
+    {
+        "name": "Camiguin Airport",
+        "iata": "CGM",
+        "iso": "PH"
+    },
+    {
+        "name": "Iligan Airport",
+        "iata": "IGN",
+        "iso": "PH"
+    },
+    {
+        "name": "Jolo Airport",
+        "iata": "JOL",
+        "iso": "PH"
+    },
+    {
+        "name": "Cagayan De Oro Airport",
+        "iata": "CGY",
+        "iso": "PH"
+    },
+    {
+        "name": "Sanga Sanga Airport",
+        "iata": "SGS",
+        "iso": "PH"
+    },
+    {
+        "name": "Labo Airport",
+        "iata": "OZC",
+        "iso": "PH"
+    },
+    {
+        "name": "Pagadian Airport",
+        "iata": "PAG",
+        "iso": "PH"
+    },
+    {
+        "name": "Mati National Airport",
+        "iata": "MXI",
+        "iso": "PH"
+    },
+    {
+        "name": "Surigao Airport",
+        "iata": "SUG",
+        "iso": "PH"
+    },
+    {
+        "name": "Cagayan de Sulu Airport",
+        "iata": "CDY",
+        "iso": "PH"
+    },
+    {
+        "name": "Ipil Airport",
+        "iata": "IPE",
+        "iso": "PH"
+    },
+    {
+        "name": "Tandag Airport",
+        "iata": "TDG",
+        "iso": "PH"
+    },
+    {
+        "name": "Zamboanga International Airport",
+        "iata": "ZAM",
+        "iso": "PH"
+    },
+    {
+        "name": "Sayak Airport",
+        "iata": "IAO",
+        "iso": "PH"
+    },
+    {
+        "name": "Loakan Airport",
+        "iata": "BAG",
+        "iso": "PH"
+    },
+    {
+        "name": "Daet Airport",
+        "iata": "DTE",
+        "iso": "PH"
+    },
+    {
+        "name": "San Jose Airport",
+        "iata": "SJI",
+        "iso": "PH"
+    },
+    {
+        "name": "Mamburao Airport",
+        "iata": "MBO",
+        "iso": "PH"
+    },
+    {
+        "name": "Naga Airport",
+        "iata": "WNP",
+        "iso": "PH"
+    },
+    {
+        "name": "Basco Airport",
+        "iata": "BSO",
+        "iso": "PH"
+    },
+    {
+        "name": "Dr. Juan C. Angara Airport",
+        "iata": "BQA",
+        "iso": "PH"
+    },
+    {
+        "name": "San Fernando Airport",
+        "iata": "SFE",
+        "iso": "PH"
+    },
+    {
+        "name": "Tuguegarao Airport",
+        "iata": "TUG",
+        "iso": "PH"
+    },
+    {
+        "name": "Virac Airport",
+        "iata": "VRC",
+        "iso": "PH"
+    },
+    {
+        "name": "Marinduque Airport",
+        "iata": "MRQ",
+        "iso": "PH"
+    },
+    {
+        "name": "Cauayan Airport",
+        "iata": "CYZ",
+        "iso": "PH"
+    },
+    {
+        "name": "Daniel Z. Romualdez Airport",
+        "iata": "TAC",
+        "iso": "PH"
+    },
+    {
+        "name": "Bacolod-Silay City International Airport",
+        "iata": "BCD",
+        "iso": "PH"
+    },
+    {
+        "name": "Calbayog Airport",
+        "iata": "CYP",
+        "iso": "PH"
+    },
+    {
+        "name": "Sibulan Airport",
+        "iata": "DGT",
+        "iso": "PH"
+    },
+    {
+        "name": "Godofredo P. Ramos Airport",
+        "iata": "MPH",
+        "iso": "PH"
+    },
+    {
+        "name": "Catarman National Airport",
+        "iata": "CRM",
+        "iso": "PH"
+    },
+    {
+        "name": "Guiuan Airport",
+        "iata": "GUI",
+        "iso": "PH"
+    },
+    {
+        "name": "Moises R. Espinosa Airport",
+        "iata": "MBT",
+        "iso": "PH"
+    },
+    {
+        "name": "Ormoc Airport",
+        "iata": "OMC",
+        "iso": "PH"
+    },
+    {
+        "name": "Puerto Princesa Airport",
+        "iata": "PPS",
+        "iso": "PH"
+    },
+    {
+        "name": "Roxas Airport",
+        "iata": "RXS",
+        "iso": "PH"
+    },
+    {
+        "name": "Evelio Javier Airport",
+        "iata": "EUQ",
+        "iso": "PH"
+    },
+    {
+        "name": "Tagbilaran Airport",
+        "iata": "TAG",
+        "iso": "PH"
+    },
+    {
+        "name": "Romblon Airport",
+        "iata": "TBH",
+        "iso": "PH"
+    },
+    {
+        "name": "Francisco B. Reyes Airport",
+        "iata": "USU",
+        "iso": "PH"
+    },
+    {
+        "name": "Borongan Airport",
+        "iata": "BPR",
+        "iso": "PH"
+    }
+]

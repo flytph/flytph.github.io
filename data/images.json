@@ -1,0 +1,283 @@
+[
+    {
+        "title": "Manila Bay Sunset",
+        "artist": "Travel Oriented",
+        "link": "https://www.flickr.com/photos/traveloriented/15426058314/",
+        "codes": ["mnl"],
+        "src": "bg-mnl.jpg"
+    },
+    {
+        "title": "Mactan Bridge",
+        "artist": "Regel Zamora",
+        "link": "https://www.flickr.com/photos/regelzamora/1484150731/",
+        "codes": ["ceb"],
+        "src": "bg-ceb.jpg"
+    },
+    {
+        "title": "Peoples Park, Davao City",
+        "artist": "Reuel Mark Delez",
+        "link": "https://www.flickr.com/photos/kamalayan/5032255217/",
+        "codes": ["dvo"],
+        "src": "bg-dvo.jpg"
+    },
+    {
+        "title": "From the cliffs behind El Nido",
+        "artist": "MrGaryLarson",
+        "link": "https://www.flickr.com/photos/chinesegary/1162635427/",
+        "codes": ["eni"],
+        "src": "bg-eni.jpg"
+    },
+    {
+        "title": "Anvaya Cove Beach, Subic Bay, Morong, Bataan",
+        "artist": "Jun's World",
+        "link": "https://www.flickr.com/photos/33942000@N00/4613722327/",
+        "codes": ["sfs"],
+        "src": "bg-sfs.jpg"
+    },
+    {
+        "title": "Hot Air Baloon, Pampanga",
+        "artist": "jlgavino",
+        "link": "https://www.flickr.com/photos/jlgavino/4185354382/",
+        "codes": ["crk"],
+        "src": "bg-crk.jpg"
+    },
+    {
+        "title": "Pagudpud, Ilocos Norte",
+        "artist": "Myra Siason",
+        "link": "https://www.flickr.com/photos/majill/3423121579/",
+        "codes": ["lao"],
+        "src": "bg-lao.jpg"
+    },
+    {
+        "title": "Daragang Magayon (Beautiful Maiden), Legazpi City",
+        "artist": "Glorius Gaduang",
+        "link": "https://www.flickr.com/photos/glorius/3497304175/",
+        "codes": ["lgp"],
+        "src": "bg-lgp.jpg"
+    },
+    {
+        "title": "Coming home, Occidental Mindoro",
+        "artist": "Marge Espineda",
+        "link": "https://www.flickr.com/photos/footprintswanderlust/4543275748/",
+        "codes": ["lbx","mbo"],
+        "src": "bg-lbx.jpg"
+    },
+    {
+        "title": "Lake Sebu, South Cotabato, Philippines",
+        "artist": "Bro. Jeffrey Pioquinto, SJ",
+        "link": "https://www.flickr.com/photos/90412460@N00/10099083583/",
+        "codes": ["aav"],
+        "src": "bg-aav.jpg"
+    },
+    {
+        "title": "Fields of gold, General Santos City",
+        "artist": "Michael Peligro",
+        "link": "https://www.flickr.com/photos/archangel_raphael/73782635/",
+        "codes": ["ges"],
+        "src": "bg-ges.jpg"
+    },
+    {
+        "title": "Firewood, Maguindanao",
+        "artist": "Keith Bacongco",
+        "link": "https://www.flickr.com/photos/kitoy/2931266164/",
+        "codes": ["cbo"],
+        "src": "bg-cbo.jpg"
+    },
+    {
+        "title": "The Yellow Brick Road, Butuan City",
+        "artist": "The Wandering Angel",
+        "link": "https://www.flickr.com/photos/wandering_angel/113134503/",
+        "codes": ["bxu"],
+        "src": "bg-bxu.jpg"
+    },
+    {
+        "title": "A Jungle Venice, Hinatuan, Surigao del Sur",
+        "artist": "Jojoscope",
+        "link": "https://www.flickr.com/photos/jojoscope/5771838922/",
+        "codes": ["bph","tdg"],
+        "src": "bg-bph.jpg"
+    },
+    {
+        "title": "Zamboanga City Boulevard",
+        "artist": "John",
+        "link": "https://www.flickr.com/photos/55893699@N04/5174964102/",
+        "codes": ["dpl","ipe","zam"],
+        "src": "bg-dpl.jpg"
+    },
+    {
+        "title": "Camiguin Island Philippines",
+        "artist": "Allan Donque",
+        "link": "https://www.flickr.com/photos/allandonque/4755336720/",
+        "codes": ["cgm"],
+        "src": "bg-cgm.jpg"
+    },
+    {
+        "title": "Tinago Falls, Iligan City, Lanao del Norte",
+        "artist": "Jojo Nicdao",
+        "link": "https://www.flickr.com/photos/jonicdao/8993727998/",
+        "codes": ["ign"],
+        "src": "bg-ign.jpg"
+    },
+    {
+        "title": "Mataking Coral, Sabah",
+        "artist": "Christian Holland",
+        "link": "https://www.flickr.com/photos/christianholland/16330908486/",
+        "codes": ["jol"],
+        "src": "bg-jol.jpg"
+    },
+    {
+        "title": "Cagayan de Oro",
+        "artist": "Jojo Nicdao",
+        "link": "https://www.flickr.com/photos/jonicdao/13973280180/",
+        "codes": ["cgy"],
+        "src": "bg-cgy.jpg"
+    },
+    {
+        "title": "Palawan Scorpion",
+        "artist": "paweesit",
+        "link": "https://www.flickr.com/photos/105314487@N06/16513698447/",
+        "codes": ["sgs"],
+        "src": "bg-sgs.jpg"
+    },
+    {
+        "title": "Facade Jimenez, Misamis Occidental",
+        "artist": "Cealwyn",
+        "link": "https://www.flickr.com/photos/philippine_church_music/3455336663/",
+        "codes": ["ozc"],
+        "src": "bg-ozc.jpg"
+    },
+    {
+        "title": "Margosatubig, Zamboanga del Sur",
+        "artist": "Starlet_",
+        "link": "https://www.flickr.com/photos/snorre__overbo/16381200652/",
+        "codes": ["pag"],
+        "src": "bg-pag.jpg"
+    },
+    {
+        "title": "Rising sun beach resort, Davao Oriental",
+        "artist": "juneewarren",
+        "link": "https://www.flickr.com/photos/7300779@N04/417815677/",
+        "codes": ["mxi"],
+        "src": "bg-mxi.jpg"
+    },
+    {
+        "title": "Beyond the Boat, Surigao del Norte, Caraga",
+        "artist": "Erwin Mascariñas",
+        "link": "https://www.flickr.com/photos/erwin_pics/2947500132/",
+        "codes": ["sug", "iao"],
+        "src": "bg-sug.jpg"
+    },
+    {
+        "title": "Selingan island, Sabah",
+        "artist": "Stéphane Enten",
+        "link": "https://www.flickr.com/photos/tufqi/4693817392/",
+        "codes": ["cdy"],
+        "src": "bg-cdy.jpg"
+    },
+    {
+        "title": "Mt. Pulag Sunset, Kabayan, Nueva Vizcaya",
+        "artist": "Francis Gimenez",
+        "link": "https://www.flickr.com/photos/fs_gimenez/6992109548/",
+        "codes": ["bag"],
+        "src": "bg-bag.jpg"
+    },
+    {
+        "title": "Calaguas Island, Mangcawayan, Vinzons",
+        "artist": "Allan Ascaño",
+        "link": "https://www.flickr.com/photos/allan_the_colorblind/8763460697/",
+        "codes": ["dte"],
+        "src": "bg-dte.jpg"
+    },
+    {
+        "title": "Sunset Beach, Occidental Mindoro",
+        "artist": "Marge Espineda",
+        "link": "https://www.flickr.com/photos/footprintswanderlust/4543143960/",
+        "codes": ["sji"],
+        "src": "bg-sji.jpg"
+    },
+    {
+        "title": "Caramoan, Camarines Sur",
+        "artist": "Karl Marx",
+        "link": "https://www.flickr.com/photos/90099765@N07/8735700326/",
+        "codes": ["wnp"],
+        "src": "bg-wnp.jpg"
+    },
+    {
+        "title": "Jaro Cathedral, Iloilo City",
+        "artist": "jays.aus",
+        "link": "https://goo.gl/maps/eQ9xLCEXE3D2",
+        "codes": ["ilo"],
+        "src": "bg-ilo.jpg"
+    },
+    {
+        "title": "Kalibo Pasture, Aklan",
+        "artist": "RMI2",
+        "link": "https://goo.gl/maps/ZckCfC16gKv",
+        "codes": ["klo"],
+        "src": "bg-klo.jpg"
+    },
+    {
+        "title": "Municipality of Baler, Aurora",
+        "artist": "Johannes Lloyd San Diego",
+        "link": "https://goo.gl/maps/xnz1NHrS3dt",
+        "codes": ["bqa"],
+        "src": "bg-bqa.jpg"
+    },
+    {
+        "title": "Thunderbird Resort - Poro Point, La Union",
+        "artist": "jejim120",
+        "link": "https://goo.gl/maps/CjoivshkkJQ2",
+        "codes": ["sfe"],
+        "src": "bg-sfe.jpg"
+    },
+    {
+        "title": "St. Peter's Cathedral - Tuguegarao",
+        "artist": "Rodolfo TANGAN",
+        "link": "https://goo.gl/maps/6nxoALiGc7x",
+        "codes": ["tug"],
+        "src": "bg-tug.jpg"
+    },
+    {
+        "title": "Virac Sea Port, Virac, Catanduanes",
+        "artist": "cliven matruska",
+        "link": "https://goo.gl/maps/fNu1ass3uEk",
+        "codes": ["vrc"],
+        "src": "bg-vrc.jpg"
+    },
+    {
+        "title": "Tres Reyes, Gaspar Islands, Gasan, Marinduque",
+        "artist": "WalterStrahm",
+        "link": "https://goo.gl/maps/PtA784xpxh82",
+        "codes": ["mrq"],
+        "src": "bg-mrq.jpg"
+    },
+    {
+        "title": "NIA MARIIS Pump Sta. # 01 Reservoir, Cauayan City",
+        "artist": "JTaylan",
+        "link": "https://goo.gl/maps/8zbmQzcf3612",
+        "codes": ["cyz"],
+        "src": "bg-cyz.jpg"
+    },
+    {
+        "title": "San Juanico Bridge, Tacloban",
+        "artist": "Sherwin Reyes",
+        "link": "https://goo.gl/maps/ZVrXn7C3iEq",
+        "codes": ["tac"],
+        "src": "bg-tac.jpg"
+    },
+    {
+        "title": "The Ruins, Silay City",
+        "artist": "Gab Lim",
+        "link": "https://goo.gl/maps/3uqD3NWVmeA2",
+        "codes": ["bcd"],
+        "src": "bg-bcd.jpg"
+    },
+    {
+        "title": "Bangon Waterfalls, Calbayog City",
+        "artist": "Ronnie Muring",
+        "link": "https://goo.gl/maps/9VJ7xgeqcgz",
+        "codes": ["cyp"],
+        "src": "bg-cyp.jpg"
+    }
+
+]
