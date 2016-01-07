@@ -3,7 +3,7 @@
 		"name": "Ninoy Aquino International Airport",
 		"iata": "MNL",
 		"iso": "PH",
-		"address": "Andrews Ave, Pasay, 1300 Metro Manila"
+		"address": "Andrews Ave, Pasay, Metro Manila"
 	},
 	{
 		"name": "Mactan Cebu International Airport",
@@ -15,19 +15,19 @@
 		"name": "Francisco Bangoy International Airport",
 		"iata": "DVO",
 		"iso": "PH",
-		"address": "Sasa, Davao city, 8000"
+		"address": "Sasa, Davao city"
 	},
 	{
 		"name": "Iloilo International Airport",
 		"iata": "ILO",
 		"iso": "PH",
-		"address": "Iloilo Airport Access Road,Cabatuan 5031,Iloilo"
+		"address": "Iloilo Airport Access Road, Cabatuan, Iloilo"
 	},
 	{
 		"name": "Kalibo International Airport",
 		"iata": "KLO",
 		"iso": "PH",
-		"address": "Kalibo International Airport Access Road, Kalibo, 5600 Aklan"
+		"address": "Kalibo International Airport Access Road, Kalibo, Aklan"
 	},
 	{
 		"name": "El Nido Airport",
@@ -45,7 +45,7 @@
 		"name": "Diosdado Macapagal International Airport",
 		"iata": "CRK",
 		"iso": "PH",
-		"address": "Andres Bonifacio Avenue,Clark Special Economic Zone,Clark Field, Mabalacat City 2009,Pampanga"
+		"address": "Andres Bonifacio Avenue, Clark Special Economic Zone, Clark Field, Mabalacat City, Pampanga"
 	},
 	{
 		"name": "Laoag International Airport",
@@ -75,7 +75,7 @@
 		"name": "General Santos International Airport",
 		"iata": "GES",
 		"iso": "PH",
-		"address": "General Santos, 9500 South Cotabato"
+		"address": "General Santos, South Cotabato"
 	},
 	{
 		"name": "Awang Airport",
@@ -99,7 +99,7 @@
 		"name": "Dipolog Airport",
 		"iata": "DPL",
 		"iso": "PH",
-		"address": "Airport Rd, Dipolog City, 7100 Zamboanga del Norte"
+		"address": "Dipolog City, Zamboanga del Norte"
 	},
 	{
 		"name": "Camiguin Airport",
@@ -111,7 +111,7 @@
 		"name": "Iligan Airport",
 		"iata": "IGN",
 		"iso": "PH",
-		"address": "Iligan-Marawi Road, Baloi, Lanao del Norte"
+		"address": "Baloi, Lanao del Norte"
 	},
 	{
 		"name": "Jolo Airport",
@@ -123,19 +123,19 @@
 		"name": "Cagayan De Oro Airport",
 		"iata": "CGY",
 		"iso": "PH",
-		"address": "Airport Access Road, Laguindingan, Misamis Oriental"
+		"address": "Laguindingan, Misamis Oriental"
 	},
 	{
 		"name": "Sanga Sanga Airport",
 		"iata": "SGS",
 		"iso": "PH",
-		"address": "Bongao, 7500 Tawi-Tawi"
+		"address": "Bongao, Tawi-Tawi"
 	},
 	{
 		"name": "Labo Airport",
 		"iata": "OZC",
 		"iso": "PH",
-		"address": "Ozamiz City, 7200 Misamis Occidental"
+		"address": "Ozamiz City, Misamis Occidental"
 	},
 	{
 		"name": "Pagadian Airport",
@@ -153,7 +153,7 @@
 		"name": "Surigao Airport",
 		"iata": "SUG",
 		"iso": "PH",
-		"address": "AH26, Surigao City, 8400 Surigao del Norte"
+		"address": "Surigao City, Surigao del Norte"
 	},
 	{
 		"name": "Cagayan de Sulu Airport",
@@ -165,7 +165,7 @@
 		"name": "Ipil Airport",
 		"iata": "IPE",
 		"iso": "PH",
-		"address": "AH26, Ipil, Zamboanga Sibugay"
+		"address": "Ipil, Zamboanga Sibugay"
 	},
 	{
 		"name": "Tandag Airport",
@@ -177,13 +177,13 @@
 		"name": "Zamboanga International Airport",
 		"iata": "ZAM",
 		"iso": "PH",
-		"address": "Gov. Camins Rd, Barangay Baliwasan, Zamboanga, 7000"
+		"address": "Barangay Baliwasan, Zamboanga"
 	},
 	{
 		"name": "Sayak Airport",
 		"iata": "IAO",
 		"iso": "PH",
-		"address": "Barangay Sayak 8418, Siargao Circumferential Rd, Del Carmen, Surigao del Norte"
+		"address": "Del Carmen, Surigao del Norte"
 	},
 	{
 		"name": "Loakan Airport",
@@ -201,7 +201,7 @@
 		"name": "San Jose Airport",
 		"iata": "SJI",
 		"iso": "PH",
-		"address": "Bubog Rd, San Jose, 5100 Occidental Mindoro"
+		"address": "San Jose, Occidental Mindoro"
 	},
 	{
 		"name": "Mamburao Airport",
@@ -237,55 +237,55 @@
 		"name": "Tuguegarao Airport",
 		"iata": "TUG",
 		"iso": "PH",
-		"address": "Tuguegarao, 3500 Cagayan"
+		"address": "Tuguegarao, Cagayan"
 	},
 	{
 		"name": "Virac Airport",
 		"iata": "VRC",
 		"iso": "PH",
-		"address": "Virac, 4800 Catanduanes"
+		"address": "Virac, Catanduanes"
 	},
 	{
 		"name": "Marinduque Airport",
 		"iata": "MRQ",
 		"iso": "PH",
-		"address": "Gasan, 4905 Marinduque"
+		"address": "Gasan, Marinduque"
 	},
 	{
 		"name": "Cauayan Airport",
 		"iata": "CYZ",
 		"iso": "PH",
-		"address": "Airport Rd, Cauayan City, 3305"
+		"address": "Cauayan City"
 	},
 	{
 		"name": "Daniel Z. Romualdez Airport",
 		"iata": "TAC",
 		"iso": "PH",
-		"address": "Airport Road,Tacloban City 6500,Leyte"
+		"address": "Tacloban City, Leyte"
 	},
 	{
 		"name": "Bacolod-Silay City International Airport",
 		"iata": "BCD",
 		"iso": "PH",
-		"address": "Airport Road, Silay City, 6116"
+		"address": "Silay City"
 	},
 	{
 		"name": "Calbayog Airport",
 		"iata": "CYP",
 		"iso": "PH",
-		"address": "Pan - Philippine Hwy, Calbayog City, 6710"
+		"address": "Pan - Philippine Hwy, Calbayog City"
 	},
 	{
 		"name": "Sibulan Airport",
 		"iata": "DGT",
 		"iso": "PH",
-		"address": "Sibulan, 6201 Negros Oriental"
+		"address": "Sibulan, Negros Oriental"
 	},
 	{
 		"name": "Godofredo P. Ramos Airport",
 		"iata": "MPH",
 		"iso": "PH",
-		"address": "Aklan West Road, Malay, 5608 Aklan"
+		"address": "Aklan West Road, Malay, Aklan"
 	},
 	{
 		"name": "Catarman National Airport",
@@ -303,25 +303,25 @@
 		"name": "Moises R. Espinosa Airport",
 		"iata": "MBT",
 		"iso": "PH",
-		"address": "Airport Rd, Masbate City, 5400 Masbate"
+		"address": "Masbate City, Masbate"
 	},
 	{
 		"name": "Ormoc Airport",
 		"iata": "OMC",
 		"iso": "PH",
-		"address": "Ormoc, 6541 Leyte"
+		"address": "Ormoc, Leyte"
 	},
 	{
 		"name": "Puerto Princesa Airport",
 		"iata": "PPS",
 		"iso": "PH",
-		"address": "Rizal Avenue, Puerto Princesa, 5300 Palawan"
+		"address": "Rizal Avenue, Puerto Princesa, Palawan"
 	},
 	{
 		"name": "Roxas Airport",
 		"iata": "RXS",
 		"iso": "PH",
-		"address": "Arnaldo Boulevard, Roxas City, 5800"
+		"address": "Arnaldo Boulevard, Roxas City"
 	},
 	{
 		"name": "Evelio Javier Airport",
@@ -333,24 +333,24 @@
 		"name": "Tagbilaran Airport",
 		"iata": "TAG",
 		"iso": "PH",
-		"address": "Airport Road, Tagbilaran City, 6300 Bohol"
+		"address": "Tagbilaran City Bohol"
 	},
 	{
 		"name": "Romblon Airport",
 		"iata": "TBH",
 		"iso": "PH",
-		"address": "Barangay Tugdan, Alcantara, Romblon"
+		"address": "Alcantara, Romblon"
 	},
 	{
 		"name": "Francisco B. Reyes Airport",
 		"iata": "USU",
 		"iso": "PH",
-		"address": "Coron Island, 5316 Palawan"
+		"address": "Coron Island Palawan"
 	},
 	{
 		"name": "Borongan Airport",
 		"iata": "BPR",
 		"iso": "PH",
-		"address": "Barangay Punta Maria, Borongan, Eastern Samar"
+		"address": "Borongan, Eastern Samar"
 	}
 ]
